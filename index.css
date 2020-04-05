@@ -1,0 +1,14 @@
+ul{
+  border: 1px grey solid;
+  margin: 10px;
+  padding-left: 0px;
+}
+
+li{
+  margin: 10px;
+  list-style: none;
+}
+
+.line{
+  text-decoration: line-through !important;
+}
